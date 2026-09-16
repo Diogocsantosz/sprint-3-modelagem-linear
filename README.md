@@ -5,8 +5,6 @@ Trabalho de estatística usando a base **California Housing** (20.640 registros)
 ## O que tem aqui
 
 - `california_housing.csv` — a base de dados usada nas análises
-- `gerar_dados.py` — script que baixa a base do scikit-learn e salva o CSV
-- `challenge_sprint3.py` — o mesmo código do notebook, em formato de script
 - `challenge_sprint3.ipynb` — notebook com o código e os resultados (abre no Colab)
 - `q1_acima_mediana.png`, `q2_intervalo.png`, `q3_regressao.png` — gráficos gerados
 
