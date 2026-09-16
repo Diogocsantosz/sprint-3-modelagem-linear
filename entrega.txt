@@ -1,0 +1,24 @@
+================================================================
+CHALLENGE SPRINT 3 - ARQUIVO DE ENTREGA
+================================================================
+
+INTEGRANTES (nome completo + RM):
+1. [Nome completo 1] - RM [xxxxx]
+2. [Nome completo 2] - RM [xxxxx]
+3. [Nome completo 3] - RM [xxxxx]
+
+VIDEO NO YOUTUBE (nao listado):
+[cole aqui o link do video]
+
+REPOSITORIO NO GITHUB:
+[cole aqui o link do repositorio]
+
+================================================================
+O repositorio contem:
+- california_housing.csv (base de dados)
+- challenge_sprint3.ipynb (notebook com codigo e resultados)
+- challenge_sprint3.py (script com o mesmo codigo)
+- gerar_dados.py (script que gera o CSV)
+- graficos gerados (q1, q2 e q3 em PNG)
+- README.md
+================================================================
