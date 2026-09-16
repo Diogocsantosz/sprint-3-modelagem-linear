@@ -18,6 +18,3 @@ Trabalho de estatística usando a base **California Housing** (20.640 registros)
 
 **Q3 — Regressão linear.** Modelo: valor do imóvel = 0,451 + 0,418 × renda mediana. R² = 0,47 e correlação de Pearson = 0,69. Ou seja: renda mediana sobe, preço sobe junto, mas a renda sozinha explica menos da metade da variação do preço.
 
-## Como rodar
-
-No Colab, basta abrir o notebook e rodar na ordem. O código tenta ler o `california_housing.csv`; se não encontrar (Quando o CSV não foi enviado junto), ele gera a base na hora pelo scikit-learn. As bibliotecas usadas (pandas, numpy, scipy, matplotlib, scikit-learn) já vêm instaladas no Colab.
